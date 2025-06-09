@@ -10,7 +10,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:video_player/video_player.dart';
-import 'package:storage1140609/firebase_options.dart';
+import 'package:storage1140609/firebase_options.dart';         //請同學自行產生此檔案
 import 'package:intl/intl.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/services.dart';
